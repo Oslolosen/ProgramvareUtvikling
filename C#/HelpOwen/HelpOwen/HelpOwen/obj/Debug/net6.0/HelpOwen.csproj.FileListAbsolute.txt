@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.exe
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.deps.json
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.runtimeconfig.json
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\bin\Debug\net6.0\HelpOwen.pdb
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.AssemblyInfo.cs
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\refint\HelpOwen.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.pdb
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\HelpOwen.genruntimeconfig.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C#\HelpOwen\HelpOwen\HelpOwen\obj\Debug\net6.0\ref\HelpOwen.dll
