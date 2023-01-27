@@ -10,6 +10,7 @@ namespace SomeGuy
     {
         string name;
         int cash;
+
         public Guy(string name, int cash)
         {
             this.name = name;
@@ -18,17 +19,17 @@ namespace SomeGuy
 
         public void WriteMyInfo()
         {
-            Console.WriteLine("Name: " + name+ "\nCash: " +cash);
+            Console.WriteLine("Name: " + name+ "\nCash: " +cash+"\n");
         }
         public int GiveCash(int amount)
         {
             if(amount <= 0) {
-                Console.WriteLine("Invalid Amount!");
+                Console.WriteLine("Invalid Amount!\n");
                 return 0;
             }
             else if(amount > cash)
             {
-                Console.WriteLine(name + " doesnt have that amount availble");
+                Console.WriteLine(name + " doesnt have that amount availble\n");
                 return 0;
             }
             else
@@ -47,6 +48,10 @@ namespace SomeGuy
             {
                 this.cash += amount;
             }
+        }
+        public void ToString()
+        {
+            Console.WriteLine(name + " Amount: " + cash);
         }
     }
 }
