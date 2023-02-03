@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\bin\Debug\net6.0\SwapElephants.exe
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\bin\Debug\net6.0\SwapElephants.deps.json
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\bin\Debug\net6.0\SwapElephants.runtimeconfig.json
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\bin\Debug\net6.0\SwapElephants.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\bin\Debug\net6.0\SwapElephants.pdb
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.AssemblyInfo.cs
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\refint\SwapElephants.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.pdb
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\SwapElephants.genruntimeconfig.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SwapElephants\SwapElephants\obj\Debug\net6.0\ref\SwapElephants.dll
