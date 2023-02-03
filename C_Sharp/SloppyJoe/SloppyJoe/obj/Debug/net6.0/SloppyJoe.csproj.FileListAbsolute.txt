@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\bin\Debug\net6.0\SloppyJoe.exe
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\bin\Debug\net6.0\SloppyJoe.deps.json
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\bin\Debug\net6.0\SloppyJoe.runtimeconfig.json
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\bin\Debug\net6.0\SloppyJoe.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\bin\Debug\net6.0\SloppyJoe.pdb
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.AssemblyInfo.cs
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\refint\SloppyJoe.dll
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.pdb
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\SloppyJoe.genruntimeconfig.cache
+C:\Users\Student\Desktop\ProgramvareUtvikling\C_Sharp\SloppyJoe\SloppyJoe\obj\Debug\net6.0\ref\SloppyJoe.dll
